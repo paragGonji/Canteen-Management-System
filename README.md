@@ -41,7 +41,7 @@ The **Canteen Management System** is a simple application built using C++ for ma
    git clone https://github.com/your-username/canteen-management-system.git
    ```
 
-#Usage
+##Usage
 1. Run the application:
 ```
 c++ Canteen-Management-System.cpp
@@ -61,9 +61,6 @@ c++ Canteen-Management-System.cpp
 
 
 
-
-### Dataset File:
-The dataset file, `bank.csv`, contains the sales data needed for the analysis. Ensure this file is in the same directory as the notebook to avoid errors.
 
 
 
