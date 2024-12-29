@@ -43,9 +43,9 @@ The **Canteen Management System** is a simple application built using C++ for ma
 
 ## Usage
 1. Run the application:
-```
-c++ Canteen-Management-System.cpp
-```
+   ```
+   c++ Canteen-Management-System.cpp
+   ```
 2. The application window will open.
 3. To add a task, enter the task description in the input field and click the "Add Task" button.
 4. To delete a task, select the task from the list and click the "Delete Task" button.
