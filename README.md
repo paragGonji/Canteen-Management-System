@@ -37,18 +37,18 @@ The **Canteen Management System** is a simple application built using C++ for ma
 
 ## Installation
 1. Clone this repository to your local machine:
-<br>
+   
    ```
    git clone https://github.com/your-username/canteen-management-system.git
    ```
 
 ## Usage
 1. Run the application:
-<br>
+
    ```
    c++ Canteen-Management-System.cpp
    ```
-<br>
+
 3. The application window will open.
 4. To add a task, enter the task description in the input field and click the "Add Task" button.
 5. To delete a task, select the task from the list and click the "Delete Task" button.
