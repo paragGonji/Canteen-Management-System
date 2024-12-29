@@ -41,7 +41,7 @@ The **Canteen Management System** is a simple application built using C++ for ma
    git clone https://github.com/your-username/canteen-management-system.git
    ```
 
-##Usage
+## Usage
 1. Run the application:
 ```
 c++ Canteen-Management-System.cpp
