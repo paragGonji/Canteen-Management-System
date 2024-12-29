@@ -1,3 +1,3 @@
 # Canteen-Management
 
-## Canteen-Management-System
+### Canteen-Management-System
